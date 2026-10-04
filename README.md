@@ -2,6 +2,8 @@
  ## *About Me*
  ### *Where I live*
 **Dyker Heights**
+
+---
 ### - **Three things that describe me**
 1. Kind
 2. Thoughtful
