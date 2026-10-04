@@ -1,6 +1,6 @@
  # **Adam Rivera**
  ## *About Me*
- ## *Where I live*
+ ### *Where I live*
 **Dyker Heights**
 ### - **Three things that describe me**
 1. Kind
